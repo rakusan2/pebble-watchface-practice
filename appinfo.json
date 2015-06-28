@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "rakusan2@gmail.com",
+    "longName": "FirstWatchface",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "FirstWatchface",
+    "uuid": "1b658771-db9a-480e-9678-2cdd3b8b368b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
