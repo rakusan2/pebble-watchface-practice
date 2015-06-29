@@ -7,7 +7,18 @@
     "longName": "FirstWatchface",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/Untitled-1.png",
+                "name": "RED_BLUE_PNG",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "DOS_VGA_48",
+                "type": "font"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "FirstWatchface",
